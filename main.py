@@ -8,10 +8,10 @@ import asyncio, json, os, re
 # bot session
 api_id_bot = 1724716
 api_hash_bot = "00b2d8f59c12c1b9a4bc63b70b461b2f"
-bot = TelegramClient("Bot", api_id_bot, api_hash_bot).start(bot_token="5890911661:AAG_IrrLPBH175T8wmQTQJevwE_fwerxW1Y")
+bot = TelegramClient("Bot", api_id_bot, api_hash_bot).start(bot_token="6396357527:AAE3-mARF7al1GyqyyoMY72TFLluUHDJT2I")
 
 # needs
-owner_id = [1730315073]
+owner_id = [5413631898]
 collect, bots_to_collect, start_earn = True, [], False
 
 # LOAD SESSION
